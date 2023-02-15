@@ -18,7 +18,6 @@ sidebar:
     citizenship: Republic of China, Taiwan.
     website:  #do not add http://
     linkedin: imingchen
-    xing: alandoe
     github: kim5268
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -32,13 +31,13 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Taiwanese
           level: Professional
 
     interests:
@@ -65,9 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Business Management
+        university: University of Southampton
+        time: 2006 - 2007
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in English Language and Literature
+        university: Fu-Jen Catholic University
+        time: 2000 - 2003
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,11 +87,11 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Academic Teaching Rank Accreditation Certificate Lecturer
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lecturer
+        time: 2012 - Present
+        company: Fu-Jen Catholic, Taipei
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
